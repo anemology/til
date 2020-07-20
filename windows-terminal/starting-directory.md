@@ -20,3 +20,8 @@
 但如果直接使用 /mnt 的路徑好像不行呢，這樣會直接跑回預設 Windows 使用者目錄
 
 * "//wsl$/Ubuntu-20.04/mnt/c"
+
+---
+
+參考
+* https://github.com/microsoft/terminal/issues/2743
