@@ -4,7 +4,7 @@
 
 寫這個 TIL 的原因是，看到 [這篇文章](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) 後，進而連結到作者的 TIL [simonw/til](https://github.com/simonw/til) 及 [jbranchaud/til](https://github.com/jbranchaud/til)。
 
-_4 TILs..._
+_5 TILs..._
 
 ---
 
@@ -17,6 +17,7 @@ _4 TILs..._
 ## Linux
 
 * [設定 history 大小](/linux/set-history-size.md) - 2020/07/21
+* [如何使用 apt update](/linux/how-to-use-apt-update.md) - 2020/07/29
 
 ## JavaScript
 
