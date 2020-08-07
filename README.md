@@ -4,7 +4,7 @@
 
 寫這個 TIL 的原因是，看到 [這篇文章](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) 後，進而連結到作者的 TIL [simonw/til](https://github.com/simonw/til) 及 [jbranchaud/til](https://github.com/jbranchaud/til)。
 
-_6 TILs..._
+_7 TILs..._
 
 ---
 
@@ -23,3 +23,7 @@ _6 TILs..._
 ## JavaScript
 
 * [Template Literals (格式化字串, 樣板字串)](/javascript/template-literals.md) - 2020/07/27
+
+## PostgreSQL
+
+* [設定允許遠端連線](/postgresql/allow-remote-access.md) - 2020/08/07
