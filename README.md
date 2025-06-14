@@ -4,7 +4,7 @@
 
 寫這個 TIL 的原因是，看到 [這篇文章](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) 後，進而連結到作者的 TIL [simonw/til](https://github.com/simonw/til) 及 [jbranchaud/til](https://github.com/jbranchaud/til)。
 
-_11 TILs..._
+_12 TILs..._
 
 ---
 
@@ -19,6 +19,7 @@ _11 TILs..._
 * [設定 history 大小](/linux/set-history-size.md) - 2020/07/21
 * [如何使用 apt update](/linux/how-to-use-apt-update.md) - 2020/07/29
 * [last 和 logrotate](/linux/last-and-logrotate.md) - 2020/08/01
+* [設定時區](/linux/set-timezone.md) - 2020/08/07
 * [apt 套件管理相關指令](/linux/apt-package-related-command.md) - 2020/08/09
 * [sudo 和 su](/linux/sudo-and-su.md) - 2020/09/07
 * [重新命名檔案至小寫檔名](/linux/rename-file-to-lowercase.md) - 2025/06/14
